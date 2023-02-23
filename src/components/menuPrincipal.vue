@@ -1,19 +1,17 @@
 <script setup>
-import { ref } from 'vue'
-
+import { ref } from 'vue';
 </script>
 
 <template>
-<h1 class="card">
-Esto es un menu
-</h1>
+  <nav>
+    <ul>
+      <li><a href="">Productos</a></li>
+      <li><a href="">Blog</a></li>
+      <li><a href=""><img src="" alt=""></a></li>
+      <li><a href="">Comunidad</a></li>
+      <li><a href="">Contactenos</a></li>
+    </ul>
+  </nav>
 </template>
 
-<style scoped>
-.titlename{
-  color: blue;
-  background-color: pink;
-  width: 100%;
-  height: 300px
-}
-</style>
+<style scoped></style>
