@@ -7,7 +7,7 @@ import { ref } from 'vue';
     <ul>
       <li><a href="">Productos</a></li>
       <li><a href="">Blog</a></li>
-      <li><a href=""><img src="" alt=""></a></li>
+      <li><a href=""><img src="" alt="Logo Menu"></a></li>
       <li><a href="">Comunidad</a></li>
       <li><a href="">Contactenos</a></li>
     </ul>
